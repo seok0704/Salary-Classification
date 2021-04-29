@@ -12,3 +12,9 @@ As part of the analysis, the following steps were taken:
 4. Model implementation
 5. Model tuning
 6. Testing & Discussion
+
+# Ordinal Classification
+
+![image](https://user-images.githubusercontent.com/17075250/116583854-c53c3800-a8e4-11eb-89a7-c38dd210e194.png)
+
+By performing the ordinal classification algorith, the model can capture the ordinal properties of each class.
