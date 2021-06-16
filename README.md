@@ -1,4 +1,4 @@
-# Salary Classification of Data Scientisst
+# Salary Classification of Data Scientist
 
 The major goal of this assignment is to gain insights into career paths that could get you a high salary in the field of data science. We will be using the "2018 Kaggle ML & DS Survey" data to perform supervised machine learning algorithm (logistic regression) to make a prediction on which salary bracket a person belongs to depending on the answers they have provided in the survey.
 
